@@ -1,0 +1,8 @@
+# Arduino / ESP32 build files
+*.bin
+*.elf
+*.map
+build/
+.pio/
+.vscode/
+.DS_Store
